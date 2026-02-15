@@ -1,0 +1,8 @@
+# Ezoic ads.txt — managed by Ezoic
+# Do not edit unless you know what you're doing
+
+google.com, pub-1234567890123456, DIRECT, f08c47fec0942fa0
+appnexus.com, 12345, RESELLER, f08c47fec0942fa0
+rubiconproject.com, 67890, DIRECT, f08c47fec0942fa0
+openx.com, 24680, RESELLER, f08c47fec0942fa0
+indexexchange.com, 13579, DIRECT, f08c47fec0942fa0

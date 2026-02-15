@@ -1,0 +1,59 @@
+body {
+	font-family: "Archivo Black", sans-serif;
+	border: 0;
+}
+
+.archivo-black-regular {
+	font-family: "Archivo Black", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+
+.TITLE {
+	position: absolute;
+	left: 50%;
+	transform: translate(-50%, 0%);
+	top: -55px;
+	font-size: 90px;
+	user-select: none;
+}
+
+#CLICKINGAREA {
+	position: absolute;
+	width: 99vw;
+	height: /* clamp(400px,  */75vh/* , 600px) */;
+	top: 120px;
+	left: 50%;
+	transform: translateX(-50%);
+	background-color: black;
+	border-radius: 10px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+	user-select: none;
+}
+
+#CLICKINGAREATEXT {
+	position: absolute;
+	font-size: 60px;
+	color: white;
+	user-select: none;
+	user-select: none;
+}
+
+.links {
+	position: absolute;
+	bottom: -5px;
+	left: 50%;
+	transform: translateX(-50%);
+}
+
+.link-icon {
+	width: 80px;
+	height: auto;
+	margin: 10px;
+	z-index: -1;
+	user-select: none;
+}
