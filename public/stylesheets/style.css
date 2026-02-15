@@ -48,13 +48,14 @@ body {
 	bottom: -5px;
 	left: 50%;
 	transform: translateX(-50%);
+	z-index: -3;
 }
 
 .link-icon {
 	width: 80px;
 	height: auto;
 	margin: 10px;
-	z-index: -1;
+	z-index: -3;
 	user-select: none;
 }
 
