@@ -2,6 +2,8 @@ let clicks = 0;
 let startTime = null;
 let showingCPS = false;
 
+alert("This website is ment to be ideally used on a computer/fullscreen.")
+
 function CLICK() {
     if (showingCPS) return;
 
@@ -27,3 +29,4 @@ function CLICK() {
         }, 5000);
     }
 }
+
